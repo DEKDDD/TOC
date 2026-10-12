@@ -1,11 +1,11 @@
-# Data Masking for PDPA — Python re
+# Data Masking for PDPA — หน้าเว็บเพื่อน + Python re
 
-ใช้ HTML/CSS, Tailwind, ฟอนต์, ไอคอน และข้อความตัวอย่าง ปรับเฉพาะการประมวลผลและสถานะการใช้งานให้เชื่อม Python backend
+ใช้ HTML/CSS, Tailwind, ฟอนต์, ไอคอน และข้อความตัวอย่างจากไฟล์ของเพื่อน ปรับเฉพาะการประมวลผลและสถานะการใช้งานให้เชื่อม Python backend
 
 ## รันในเครื่อง
 
 1. ติดตั้ง Python 3.10 ขึ้นไป
-2. เปิด Terminal
+2. แตก ZIP แล้วเปิด Terminal ในโฟลเดอร์ friend-pdpa-python
 3. รัน `python app.py` (หรือ `python3 app.py`)
 4. เปิด http://127.0.0.1:8000
 5. กดโหลดตัวอย่าง แล้วทำการเซ็นเซอร์ข้อมูล
