@@ -58,7 +58,7 @@ fetch('/api/config').then(response => response.json()).then(config => {
 }).catch(() => { document.getElementById('sourceStatus').textContent = 'โหลดการตั้งค่า GitHub ไม่สำเร็จ'; });
 
 function loadSample() {
-  input.value = `บันทึกข้อมูลลูกค้าประจำวันที่ 12 ต.ค.
+  input.value = `ตัวอย่างบันทึกข้อมูลเพื่อการทดสอบ
 ------------------------------------------------
 ข้อมูลลูกค้าคนที่ 1:
 ชื่อ-นามสกุล: นายสมชาย ใจดี
