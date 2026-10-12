@@ -1,6 +1,4 @@
-# Data Masking for PDPA — หน้าเว็บเพื่อน + Python re
-
-ใช้ HTML/CSS, Tailwind, ฟอนต์, ไอคอน และข้อความตัวอย่างจากไฟล์ของเพื่อน ปรับเฉพาะการประมวลผลและสถานะการใช้งานให้เชื่อม Python backend
+# Data Masking for PDPA — Python re
 
 ## รันในเครื่อง
 
